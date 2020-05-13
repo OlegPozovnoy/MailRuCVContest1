@@ -4,5 +4,5 @@
 ищем ключевые точки (число берем все равно с запасом), в последнем линейном уже ищем решение.
 Первые слои более менее стандартные.
 
-![result](https://github.com/OlegPozovnoy/MailRuCVContest1/blob/master/model.JPG)    
-![model](model.jpg)
+![model](https://github.com/OlegPozovnoy/MailRuCVContest1/blob/master/model.JPG)    
+![result](https://github.com/OlegPozovnoy/MailRuCVContest1/blob/master/result.JPG)
