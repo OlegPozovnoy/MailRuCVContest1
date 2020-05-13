@@ -107,6 +107,7 @@ def main(args):
     device = torch.device("cuda: 0") if args.gpu else torch.device("cpu")
 
     model = Model()
+    print(model)
     print(device)
 
     print("Reading data...")
